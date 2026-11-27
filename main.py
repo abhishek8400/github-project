@@ -5,7 +5,7 @@ from pathlib import Path
 import pandas as pd
 levels = Counter()
 #======yahan se path badla hai==============
-Desktop_path  = Path(r"\\nas.vcl\redirect$\yoginder.chauhan\Desktop")
+Desktop_path  = Path(r"your path")
 LOG_FILE = Desktop_path / "logtest.txt"
 OUT_FILE = Desktop_path / "log_report.csv"
 rows= []
